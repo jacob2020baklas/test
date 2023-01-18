@@ -1,1 +1,9 @@
-index.html?configUrl=https://jacob2020baklas.github.io/test/dom.json
+/index.html?configUrl=https://jacob2020baklas.github.io/test/dom.json
+
+/index.html?url=https://your_api_spec/spec.yaml
+
+=========
+
+https://jacob2020baklas.github.io/test/dom.json
+
+/index.html?url=https://jacob2020baklas.github.io/test/dom.yaml
