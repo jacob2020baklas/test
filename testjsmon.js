@@ -12,14 +12,14 @@
  */
 ( function( global, factory ) {
 
-	"use strict";
+
 
 // this is modified
 		module.exports = global.document ?
 			factory( global, true ) :
 			function( w ) {
 				if ( !w.document ) {
-					throw new Error( "jQuery requires a window with a document" );
+					throw new Error( "noooo its changed again" );
 				}
 				return factory( w );
 			};
